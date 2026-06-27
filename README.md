@@ -56,12 +56,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0100-same-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 ## Binary Tree
 |  |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 ## Breadth-First Search
 |  |
