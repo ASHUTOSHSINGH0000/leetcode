@@ -19,7 +19,7 @@ public:
             return ;
         }
 
-        else if ( (root -> val) < (p -> val) )
+        if ( (root -> val) < (p -> val) )
         {
             fun( root -> right ,p, q);
         }
