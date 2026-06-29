@@ -64,6 +64,7 @@ A collection of My LeetCode questions !!
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0951-flip-equivalent-binary-trees](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0951-flip-equivalent-binary-trees) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of My LeetCode questions !!
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0951-flip-equivalent-binary-trees](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0951-flip-equivalent-binary-trees) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of My LeetCode questions !!
 | [0104-maximum-depth-of-binary-tree](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
