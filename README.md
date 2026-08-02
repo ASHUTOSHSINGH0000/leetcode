@@ -9,6 +9,7 @@ A collection of My LeetCode questions !!
 | [0039-combination-sum](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0039-combination-sum) |
 | [0200-number-of-islands](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0200-number-of-islands) |
 | [0621-task-scheduler](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0621-task-scheduler) |
+| [0877-stone-game](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0877-stone-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of My LeetCode questions !!
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0022-generate-parentheses) |
+| [0877-stone-game](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0877-stone-game) |
 ## Backtracking
 |  |
 | ------- |
@@ -143,4 +145,12 @@ A collection of My LeetCode questions !!
 | ------- |
 | [0207-course-schedule](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0210-course-schedule-ii) |
+## Math
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
