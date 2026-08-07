@@ -22,6 +22,7 @@ A collection of My LeetCode questions !!
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0621-task-scheduler) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of My LeetCode questions !!
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0022-generate-parentheses) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -52,6 +54,7 @@ A collection of My LeetCode questions !!
 | [0022-generate-parentheses](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0039-combination-sum) |
 | [0113-path-sum-ii](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0113-path-sum-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Stack
 |  |
 | ------- |
@@ -152,8 +155,13 @@ A collection of My LeetCode questions !!
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0877-stone-game) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Game Theory
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0877-stone-game) |
+## Number Theory
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->
