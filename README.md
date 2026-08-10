@@ -10,6 +10,7 @@ A collection of My LeetCode questions !!
 | [0200-number-of-islands](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0200-number-of-islands) |
 | [0621-task-scheduler](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0621-task-scheduler) |
 | [0877-stone-game](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0877-stone-game) |
+| [1584-min-cost-to-connect-all-points](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [3731-find-missing-elements](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -140,6 +141,7 @@ A collection of My LeetCode questions !!
 | ------- |
 | [0200-number-of-islands](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0547-number-of-provinces) |
+| [1584-min-cost-to-connect-all-points](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 ## Matrix
 |  |
 | ------- |
@@ -150,6 +152,7 @@ A collection of My LeetCode questions !!
 | [0207-course-schedule](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0547-number-of-provinces) |
+| [1584-min-cost-to-connect-all-points](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
 | ------- |
@@ -168,4 +171,20 @@ A collection of My LeetCode questions !!
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
