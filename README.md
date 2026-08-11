@@ -95,6 +95,7 @@ A collection of My LeetCode questions !!
 | [0547-number-of-provinces](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0951-flip-equivalent-binary-trees](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0951-flip-equivalent-binary-trees) |
+| [1192-critical-connections-in-a-network](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/1192-critical-connections-in-a-network) |
 ## Binary Tree
 |  |
 | ------- |
@@ -153,6 +154,7 @@ A collection of My LeetCode questions !!
 | [0207-course-schedule](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0547-number-of-provinces) |
+| [1192-critical-connections-in-a-network](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/1192-critical-connections-in-a-network) |
 | [1584-min-cost-to-connect-all-points](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
@@ -206,4 +208,12 @@ A collection of My LeetCode questions !!
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/1510-stone-game-iv) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/1192-critical-connections-in-a-network) |
+## Bridge (Graph)
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
