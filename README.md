@@ -11,6 +11,7 @@ A collection of My LeetCode questions !!
 | [0621-task-scheduler](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0621-task-scheduler) |
 | [0877-stone-game](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0877-stone-game) |
 | [1584-min-cost-to-connect-all-points](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -18,6 +19,7 @@ A collection of My LeetCode questions !!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0621-task-scheduler](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/3731-find-missing-elements) |
 ## Greedy
 |  |
@@ -28,6 +30,7 @@ A collection of My LeetCode questions !!
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0621-task-scheduler) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
