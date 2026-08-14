@@ -20,6 +20,7 @@ A collection of My LeetCode questions !!
 | [0621-task-scheduler](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/3731-find-missing-elements) |
 ## Greedy
 |  |
@@ -45,6 +46,7 @@ A collection of My LeetCode questions !!
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0022-generate-parentheses) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Dynamic Programming
 |  |
@@ -219,4 +221,8 @@ A collection of My LeetCode questions !!
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/1192-critical-connections-in-a-network) |
+## Sliding Window
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
