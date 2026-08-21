@@ -6,6 +6,7 @@ A collection of My LeetCode questions !!
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0039-combination-sum) |
 | [0200-number-of-islands](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0200-number-of-islands) |
 | [0621-task-scheduler](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0621-task-scheduler) |
@@ -18,6 +19,7 @@ A collection of My LeetCode questions !!
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0621-task-scheduler](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
