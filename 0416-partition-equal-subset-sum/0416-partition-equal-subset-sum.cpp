@@ -1,57 +1,61 @@
 class Solution {
 public:
-    
-    int t [201][10001];
-    bool solve (vector<int>& nums , int j , int i )
+    bool t[201][10001];
+
+    bool solve (vector<int>& nums , int sum , int n)
     {
-        if ( j == 0)
+        for ( int i = 0 ; i < n+1 ; i++ )
         {
-            return true  ;
+            for ( int j = 0 ; j < sum + 1 ; j++)
+            {
+                if ( j == 0 )
+                {
+                    t[i][j] = true ;
+                }
+                else if ( i == 0 )
+                {
+                    t[i][j]= false ;
+                }
+            }
         }
 
-        if ( i == 0 )
+        for ( int i = 1 ; i < n+1 ; i++ )
         {
-            return false ;
+            for ( int j = 1 ; j < sum + 1 ; j++)
+            {
+                if ( nums[i-1] <= j)
+                {
+                    t[i][j] = t[i-1][j - nums[i-1]] || t[i-1][j];
+                }
+
+                else 
+                { 
+                   t[i][j] =  t[i-1][j];
+                }
+            }
         }
 
-        if ( t[i][j]!= -1)
-        {
-            return t[i][j];
-        }
-
-        if ( nums[i-1] <= j )
-        {
-            t[i][j] = solve( nums ,j - nums[i-1] , i -1) || solve( nums , j , i -1);
-        }
-        
-        else
-        {
-            t[i][j] = solve( nums , j , i -1) ;
-        }
-
-        return  t[i][j] ;
+        return t[n][sum];
 
 
     }
-
+    
     bool canPartition(vector<int>& nums) {
         int n = nums.size();
-
-        int sum = 0 ;
+        int sum = 0;
 
         for ( int i = 0 ; i < n ; i++)
         {
-            sum  += nums[i];
+            sum += nums[i];
         }
 
-        if ( sum % 2 != 0)
+        if ( sum % 2 != 0 )
         {
             return false ;
         }
-
-        memset( t ,-1 ,sizeof(t));
-
-        return solve( nums , sum/2 , n) ;
-        
+        else
+        {
+            return solve(nums , sum /2,n);
+        }
     }
 };
