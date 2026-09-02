@@ -10,6 +10,7 @@ A collection of My LeetCode questions !!
 | [0039-combination-sum](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0039-combination-sum) |
 | [0200-number-of-islands](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0200-number-of-islands) |
 | [0416-partition-equal-subset-sum](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0494-target-sum) |
 | [0621-task-scheduler](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0621-task-scheduler) |
 | [0877-stone-game](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0877-stone-game) |
 | [1584-min-cost-to-connect-all-points](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
@@ -63,6 +64,7 @@ A collection of My LeetCode questions !!
 | ------- |
 | [0022-generate-parentheses](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0022-generate-parentheses) |
 | [0416-partition-equal-subset-sum](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0494-target-sum) |
 | [0877-stone-game](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/1510-stone-game-iv) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -73,6 +75,7 @@ A collection of My LeetCode questions !!
 | [0022-generate-parentheses](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0039-combination-sum) |
 | [0113-path-sum-ii](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0113-path-sum-ii) |
+| [0494-target-sum](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0494-target-sum) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Stack
 |  |
@@ -254,10 +257,12 @@ A collection of My LeetCode questions !!
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0494-target-sum) |
 ## Meet in the Middle
 |  |
 | ------- |
