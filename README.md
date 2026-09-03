@@ -20,6 +20,7 @@ A collection of My LeetCode questions !!
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -191,6 +192,7 @@ A collection of My LeetCode questions !!
 | [2029-stone-game-ix](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/2029-stone-game-ix) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Game Theory
 |  |
 | ------- |
