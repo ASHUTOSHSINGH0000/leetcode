@@ -23,6 +23,7 @@ A collection of My LeetCode questions !!
 | [3731-find-missing-elements](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -289,4 +290,8 @@ A collection of My LeetCode questions !!
 | ------- |
 | [0322-coin-change](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0518-coin-change-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
