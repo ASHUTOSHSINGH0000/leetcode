@@ -9,6 +9,7 @@ A collection of My LeetCode questions !!
 | [0001-two-sum](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0039-combination-sum) |
 | [0200-number-of-islands](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0200-number-of-islands) |
+| [0322-coin-change](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0518-coin-change-ii) |
@@ -65,6 +66,7 @@ A collection of My LeetCode questions !!
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0022-generate-parentheses) |
+| [0322-coin-change](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0518-coin-change-ii) |
@@ -147,6 +149,7 @@ A collection of My LeetCode questions !!
 | [0200-number-of-islands](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0210-course-schedule-ii) |
+| [0322-coin-change](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -260,6 +263,7 @@ A collection of My LeetCode questions !!
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0518-coin-change-ii) |
@@ -283,5 +287,6 @@ A collection of My LeetCode questions !!
 ## Complete Knapsack
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
