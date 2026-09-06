@@ -62,6 +62,7 @@ A collection of My LeetCode questions !!
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0022-generate-parentheses) |
+| [1143-longest-common-subsequence](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/1143-longest-common-subsequence) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Dynamic Programming
@@ -73,6 +74,7 @@ A collection of My LeetCode questions !!
 | [0494-target-sum](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0518-coin-change-ii) |
 | [0877-stone-game](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0877-stone-game) |
+| [1143-longest-common-subsequence](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1510-stone-game-iv](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/1510-stone-game-iv) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Backtracking
@@ -296,4 +298,8 @@ A collection of My LeetCode questions !!
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/3904-smallest-stable-index-ii) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
