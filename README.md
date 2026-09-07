@@ -63,6 +63,7 @@ A collection of My LeetCode questions !!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1143-longest-common-subsequence](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/1143-longest-common-subsequence) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -76,6 +77,7 @@ A collection of My LeetCode questions !!
 | [0494-target-sum](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0518-coin-change-ii) |
 | [0877-stone-game](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1143-longest-common-subsequence](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1510-stone-game-iv](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/1510-stone-game-iv) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
