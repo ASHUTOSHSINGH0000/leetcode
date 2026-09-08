@@ -31,7 +31,7 @@ public:
 
         string s2 = s;
 
-        reverse(s2.begin(), s2.end());
+        reverse(s.begin(), s.end());
 
         return solve(s, s2, n);
     }
