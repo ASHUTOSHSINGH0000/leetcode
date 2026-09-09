@@ -69,6 +69,7 @@ A collection of My LeetCode questions !!
 | [0940-distinct-subsequences-ii](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1092-shortest-common-supersequence](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Dynamic Programming
@@ -87,6 +88,7 @@ A collection of My LeetCode questions !!
 | [0940-distinct-subsequences-ii](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1092-shortest-common-supersequence](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1510-stone-game-iv](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/1510-stone-game-iv) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Backtracking
