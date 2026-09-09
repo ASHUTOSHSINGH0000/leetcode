@@ -63,6 +63,7 @@ A collection of My LeetCode questions !!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0115-distinct-subsequences) |
+| [0392-is-subsequence](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0940-distinct-subsequences-ii](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0940-distinct-subsequences-ii) |
@@ -76,6 +77,7 @@ A collection of My LeetCode questions !!
 | [0022-generate-parentheses](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0115-distinct-subsequences) |
 | [0322-coin-change](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0516-longest-palindromic-subsequence) |
@@ -178,6 +180,7 @@ A collection of My LeetCode questions !!
 ## Two Pointers
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0392-is-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Union-Find
