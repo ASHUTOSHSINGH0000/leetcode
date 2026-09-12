@@ -19,6 +19,7 @@ A collection of My LeetCode questions !!
 | [2029-stone-game-ix](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/2029-stone-game-ix) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -47,6 +48,7 @@ A collection of My LeetCode questions !!
 | [0621-task-scheduler](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0621-task-scheduler) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3731-find-missing-elements](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -91,6 +93,7 @@ A collection of My LeetCode questions !!
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1510-stone-game-iv](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/1510-stone-game-iv) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Backtracking
 |  |
 | ------- |
@@ -179,6 +182,7 @@ A collection of My LeetCode questions !!
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Two Pointers
 |  |
 | ------- |
