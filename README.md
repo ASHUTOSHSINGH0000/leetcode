@@ -217,6 +217,7 @@ A collection of My LeetCode questions !!
 ## Math
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/2029-stone-game-ix) |
@@ -327,4 +328,8 @@ A collection of My LeetCode questions !!
 | [0583-delete-operation-for-two-strings](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [1092-shortest-common-supersequence](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/1143-longest-common-subsequence) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
