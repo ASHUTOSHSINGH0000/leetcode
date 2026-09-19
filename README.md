@@ -8,6 +8,7 @@ A collection of My LeetCode questions !!
 | ------- |
 | [0001-two-sum](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0039-combination-sum) |
+| [0053-maximum-subarray](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0169-majority-element) |
@@ -92,6 +93,7 @@ A collection of My LeetCode questions !!
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0322-coin-change) |
@@ -353,6 +355,7 @@ A collection of My LeetCode questions !!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0169-majority-element) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
