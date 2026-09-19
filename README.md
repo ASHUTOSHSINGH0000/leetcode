@@ -11,6 +11,7 @@ A collection of My LeetCode questions !!
 | [0015-3sum](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0053-maximum-subarray) |
+| [0074-search-a-2d-matrix](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0169-majority-element) |
@@ -198,6 +199,7 @@ A collection of My LeetCode questions !!
 ## Binary Search Tree
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0098-validate-binary-search-tree](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -222,6 +224,7 @@ A collection of My LeetCode questions !!
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0200-number-of-islands) |
 | [0835-image-overlap](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0835-image-overlap) |
 | [2965-find-missing-and-repeated-values](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/2965-find-missing-and-repeated-values) |
