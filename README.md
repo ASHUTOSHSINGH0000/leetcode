@@ -8,6 +8,7 @@ A collection of My LeetCode questions !!
 | ------- |
 | [0001-two-sum](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0039-combination-sum) |
+| [0169-majority-element](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -32,6 +33,7 @@ A collection of My LeetCode questions !!
 | ------- |
 | [0001-two-sum](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0169-majority-element](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0169-majority-element) |
 | [0621-task-scheduler](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -48,6 +50,7 @@ A collection of My LeetCode questions !!
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0169-majority-element) |
 | [0621-task-scheduler](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0621-task-scheduler) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -61,6 +64,7 @@ A collection of My LeetCode questions !!
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0169-majority-element) |
 | [0621-task-scheduler](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0621-task-scheduler) |
 | [2029-stone-game-ix](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/2029-stone-game-ix) |
 ## String
@@ -336,4 +340,12 @@ A collection of My LeetCode questions !!
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0836-rectangle-overlap) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
