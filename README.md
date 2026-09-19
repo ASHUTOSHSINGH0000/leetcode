@@ -233,6 +233,7 @@ A collection of My LeetCode questions !!
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0050-powx-n) |
 | [0836-rectangle-overlap](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/1510-stone-game-iv) |
@@ -357,4 +358,8 @@ A collection of My LeetCode questions !!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0169-majority-element) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
