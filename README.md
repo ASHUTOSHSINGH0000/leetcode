@@ -7,6 +7,7 @@ A collection of My LeetCode questions !!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0088-merge-sorted-array) |
@@ -48,6 +49,7 @@ A collection of My LeetCode questions !!
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0011-container-with-most-water) |
 | [0621-task-scheduler](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0621-task-scheduler) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2029-stone-game-ix](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/2029-stone-game-ix) |
@@ -203,6 +205,7 @@ A collection of My LeetCode questions !!
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0088-merge-sorted-array) |
 | [0392-is-subsequence](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0392-is-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
