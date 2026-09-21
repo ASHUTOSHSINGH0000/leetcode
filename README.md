@@ -12,6 +12,7 @@ A collection of My LeetCode questions !!
 | [0018-4sum](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0018-4sum) |
 | [0039-combination-sum](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -236,6 +237,7 @@ A collection of My LeetCode questions !!
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0200-number-of-islands) |
@@ -397,4 +399,8 @@ A collection of My LeetCode questions !!
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0075-sort-colors) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
