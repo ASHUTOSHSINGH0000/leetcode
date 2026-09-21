@@ -21,6 +21,7 @@ A collection of My LeetCode questions !!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0200-number-of-islands) |
+| [0240-search-a-2d-matrix-ii](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0322-coin-change](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0494-target-sum) |
@@ -214,6 +215,7 @@ A collection of My LeetCode questions !!
 | [0098-validate-binary-search-tree](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0240-search-a-2d-matrix-ii](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -241,6 +243,7 @@ A collection of My LeetCode questions !!
 | [0073-set-matrix-zeroes](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0200-number-of-islands) |
+| [0240-search-a-2d-matrix-ii](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0835-image-overlap](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0835-image-overlap) |
 | [2965-find-missing-and-repeated-values](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Graph Theory
@@ -382,6 +385,7 @@ A collection of My LeetCode questions !!
 | ------- |
 | [0053-maximum-subarray](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
