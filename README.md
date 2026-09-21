@@ -101,6 +101,7 @@ A collection of My LeetCode questions !!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0583-delete-operation-for-two-strings) |
@@ -237,6 +238,7 @@ A collection of My LeetCode questions !!
 | [0042-trapping-rain-water](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0392-is-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
