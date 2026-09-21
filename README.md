@@ -21,6 +21,7 @@ A collection of My LeetCode questions !!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0200-number-of-islands) |
+| [0239-sliding-window-maximum](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0322-coin-change) |
@@ -84,6 +85,7 @@ A collection of My LeetCode questions !!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0621-task-scheduler](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0621-task-scheduler) |
 ## Counting
 |  |
@@ -332,6 +334,7 @@ A collection of My LeetCode questions !!
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0239-sliding-window-maximum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Bit Manipulation
 |  |
@@ -419,4 +422,16 @@ A collection of My LeetCode questions !!
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0287-find-the-duplicate-number) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
