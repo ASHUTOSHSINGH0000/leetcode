@@ -22,6 +22,7 @@ A collection of My LeetCode questions !!
 | [0169-majority-element](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0494-target-sum) |
@@ -216,6 +217,7 @@ A collection of My LeetCode questions !!
 | [0099-recover-binary-search-tree](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -227,6 +229,7 @@ A collection of My LeetCode questions !!
 | [0018-4sum](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0088-merge-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0392-is-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -333,6 +336,7 @@ A collection of My LeetCode questions !!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Knapsack Problem
@@ -407,4 +411,12 @@ A collection of My LeetCode questions !!
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0054-spiral-matrix) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
