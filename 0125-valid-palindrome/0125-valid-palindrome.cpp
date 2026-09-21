@@ -1,9 +1,7 @@
 class Solution {
 public:
     bool isPalindrome(string str) {
-        // Convert uppercase letters to lowercase
         
-
         // Check for palindrome
         int start = 0;
         int end = str.length() - 1;
