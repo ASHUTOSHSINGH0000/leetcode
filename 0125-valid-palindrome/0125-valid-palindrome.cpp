@@ -2,11 +2,7 @@ class Solution {
 public:
     bool isPalindrome(string str) {
         // Convert uppercase letters to lowercase
-        for (int i = 0; i < str.length(); i++) {
-            char ch = str[i];
-            if (ch >= 'A' && ch <= 'Z')
-                str[i] = ch - 'A' + 'a';
-        }
+        
 
         // Check for palindrome
         int start = 0;
@@ -32,4 +28,3 @@ public:
         return true;
     }
 };
-
