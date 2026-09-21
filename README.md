@@ -11,6 +11,7 @@ A collection of My LeetCode questions !!
 | [0015-3sum](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0018-4sum) |
 | [0039-combination-sum](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0056-merge-intervals) |
@@ -114,6 +115,7 @@ A collection of My LeetCode questions !!
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -144,6 +146,7 @@ A collection of My LeetCode questions !!
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 ## Tree
@@ -231,6 +234,7 @@ A collection of My LeetCode questions !!
 | [0011-container-with-most-water](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -440,5 +444,6 @@ A collection of My LeetCode questions !!
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
