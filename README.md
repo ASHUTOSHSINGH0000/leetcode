@@ -448,4 +448,8 @@ A collection of My LeetCode questions !!
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
