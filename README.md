@@ -467,5 +467,6 @@ A collection of My LeetCode questions !!
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1729-find-followers-count](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/1757-recyclable-and-low-fat-products) |
+| [1789-primary-department-for-each-employee](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/1789-primary-department-for-each-employee) |
 | [1934-confirmation-rate](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/1934-confirmation-rate) |
 <!---LeetCode Topics End-->
