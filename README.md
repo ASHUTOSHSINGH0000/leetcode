@@ -462,6 +462,7 @@ A collection of My LeetCode questions !!
 | [0619-biggest-single-number](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0619-biggest-single-number) |
 | [1068-product-sales-analysis-i](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/1068-product-sales-analysis-i) |
 | [1070-product-sales-analysis-iii](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/1070-product-sales-analysis-iii) |
+| [1204-last-person-to-fit-in-the-bus](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1280-students-and-examinations](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
