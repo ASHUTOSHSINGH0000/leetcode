@@ -459,6 +459,7 @@ A collection of My LeetCode questions !!
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0584-find-customer-referee](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0595-big-countries) |
+| [0619-biggest-single-number](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0619-biggest-single-number) |
 | [1068-product-sales-analysis-i](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/1068-product-sales-analysis-i) |
 | [1070-product-sales-analysis-iii](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/1070-product-sales-analysis-iii) |
 | [1280-students-and-examinations](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/1280-students-and-examinations) |
