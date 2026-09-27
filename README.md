@@ -464,6 +464,7 @@ A collection of My LeetCode questions !!
 | [1070-product-sales-analysis-iii](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/1070-product-sales-analysis-iii) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1280-students-and-examinations](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/1280-students-and-examinations) |
+| [1341-movie-rating](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/1341-movie-rating) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1729-find-followers-count](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/1729-find-followers-count) |
