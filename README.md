@@ -110,6 +110,7 @@ A collection of My LeetCode questions !!
 | [0940-distinct-subsequences-ii](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1092-shortest-common-supersequence](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/1143-longest-common-subsequence) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -152,6 +153,7 @@ A collection of My LeetCode questions !!
 | [0042-trapping-rain-water](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Tree
 |  |
 | ------- |
@@ -471,4 +473,8 @@ A collection of My LeetCode questions !!
 | [1757-recyclable-and-low-fat-products](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 | [1789-primary-department-for-each-employee](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/1789-primary-department-for-each-employee) |
 | [1934-confirmation-rate](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/1934-confirmation-rate) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
