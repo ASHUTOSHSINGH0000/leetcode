@@ -103,6 +103,7 @@ A collection of My LeetCode questions !!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0392-is-subsequence) |
@@ -120,6 +121,7 @@ A collection of My LeetCode questions !!
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0115-distinct-subsequences) |
@@ -152,6 +154,7 @@ A collection of My LeetCode questions !!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
@@ -479,5 +482,6 @@ A collection of My LeetCode questions !!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
