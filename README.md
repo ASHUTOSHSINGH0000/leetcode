@@ -34,6 +34,7 @@ A collection of My LeetCode questions !!
 | [0560-subarray-sum-equals-k](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0621-task-scheduler) |
 | [0835-image-overlap](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0835-image-overlap) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0877-stone-game) |
 | [1584-min-cost-to-connect-all-points](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -238,6 +239,7 @@ A collection of My LeetCode questions !!
 | [0240-search-a-2d-matrix-ii](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -490,4 +492,8 @@ A collection of My LeetCode questions !!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0014-longest-common-prefix) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
