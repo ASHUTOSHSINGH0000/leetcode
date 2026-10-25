@@ -256,6 +256,7 @@ A collection of My LeetCode questions !!
 | [0287-find-the-duplicate-number](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0392-is-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0876-middle-of-the-linked-list](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Union-Find
 |  |
@@ -496,4 +497,8 @@ A collection of My LeetCode questions !!
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/ASHUTOSHSINGH0000/leetcode/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
